@@ -6,6 +6,8 @@ A simple Node.js and Express API that processes an array of mixed data (numbers,
 
 **Khushi**
 
+## Deployed Backend Link 
+https://bfhl-backend-ev3i.onrender.com/
 ## 📁 Project Structure
 
 ```
