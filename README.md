@@ -26,6 +26,11 @@ A simple Node.js and Express API that processes an array of mixed data (numbers,
 
 * Node.js installed
 * Postman for testing
+  <img width="1918" height="1015" alt="image" src="https://github.com/user-attachments/assets/dd4c484c-e421-41cc-93c6-70cdf256b60e" />
+  <img width="1919" height="967" alt="image" src="https://github.com/user-attachments/assets/d8bd619e-2ec7-4a99-b82b-7cd6343fddcc" />
+
+
+
 
 ### Installation
 
